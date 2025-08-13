@@ -59,3 +59,6 @@ Implementing a web interface for the sentiment analysis project involves creatin
 
 <strong>Integration</strong>:<br> Connect the frontend and backend components through API calls (Get API), enabling seamless communication between the user interface and the model hosted on the backend server. Test the integration thoroughly to ensure proper functionality and accuracy of sentiment analysis results in real-time.
 Overall, the successful implementation of the web interface, comprising both frontend and backend components, facilitates user interaction and model deployment, enabling users to easily input social media content for sentiment analysis and obtain valuable insights.
+
+
+**Telegram**: [@insionCEO](https://t.me/insionCEO)
